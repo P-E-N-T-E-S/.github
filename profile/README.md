@@ -1,8 +1,18 @@
-# P.E.N.T.E.S. 🎱
+# Bem-vindo à P.E.N.T.E.S. 🎱
 
 ## Visão Geral 👀
 
-Descrição do Projeto.
+Nós somos um grupo apaixonado por tecnologia e inovação, e estamos empolgados em compartilhar nossos projetos e colaborações com a comunidade GitHub. Aqui está um resumo das mentes brilhantes por trás desta organização:
+
+## Nossos Projetos 📼
+
+### Kolekto - Aplicativo para Compra e Venda de Colecionáveis 📦
+
+O repositório [Kolekto](https://github.com/P-E-N-T-E-S/Kolekto) abriga nosso projeto empolgante de um aplicativo que visa conectar entusiastas de colecionáveis. Seja para selos, quadrinhos, figurinhas ou qualquer outra coisa colecionável, o Kolekto proporcionará uma plataforma amigável para compra e venda, além de fornecer recursos sociais para os amantes de colecionáveis.
+
+### Coffee Break - Balança Inteligente para Café ☕
+
+Quem não ama uma pausa para o café? O projeto [Coffee Break](https://github.com/P-E-N-T-E-S/Coffee-Break) representa nossa incursão no mundo da Internet das Coisas. Esta balança inteligente pode ser colocada sob a garrafa de café, e com a ajuda de sensores e conectividade, ela medirá a quantidade de café restante e exibirá os dados em um aplicativo.
 
 ## Membros 👨‍🏭
   
@@ -58,3 +68,14 @@ Descrição do Projeto.
     </td>
   </tr>
 </table>
+
+## Contato
+
+Se você quiser entrar em contato conosco, você pode nos alcançar por e-mail em gitpentes@gmail.com .
+
+Agradecemos por visitar nossa página no GitHub e esperamos que você goste de explorar nossos projetos tanto quanto nós gostamos de criá-los!
+
+Divirta-se explorando e codificando!
+
+Atenciosamente,
+A Equipe P.EN.T.E.S.
