@@ -1,8 +1,4 @@
-# Bem-vindo à P.E.N.T.E.S. 🎱
-
-## Visão Geral 👀
-
-Nós somos um grupo apaixonado por tecnologia e inovação, e estamos empolgados em compartilhar nossos projetos e colaborações com a comunidade GitHub. Aqui está um resumo das mentes brilhantes por trás desta organização:
+<img src="https://i.imgur.com/R3mlZhO.png" width="1000" /> 
 
 ## Nossos Projetos 📼
 
