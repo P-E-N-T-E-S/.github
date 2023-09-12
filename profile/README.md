@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/R3mlZhO.png" width="1000" /> 
+<img src="https://i.imgur.com/jkhTexk.png" width="1000" /> 
 
 ## Nossos Projetos 📼
 
