@@ -6,6 +6,9 @@
 
 O repositório [Kolekto](https://github.com/P-E-N-T-E-S/Kolekto) abriga nosso projeto empolgante de um aplicativo que visa conectar entusiastas de colecionáveis. Seja para selos, quadrinhos, figurinhas ou qualquer outra coisa colecionável, o Kolekto proporcionará uma plataforma amigável para compra e venda, além de fornecer recursos sociais para os amantes de colecionáveis.
 
+### Pris.ME - Organização de ONGs 💞
+O [Pris.ME](https://github.com/P-E-N-T-E-S/Pris.ME) é uma plataforma web personalizável que ajuda ONGs a gerenciar suas operações de forma eficiente, permitindo que se concentrem em suas missões sem se preocupar com a complexidade da gestão.
+
 ### Coffee Break - Balança Inteligente para Café ☕
 
 Quem não ama uma pausa para o café? O projeto [Coffee Break](https://github.com/P-E-N-T-E-S/Coffee-Break) representa nossa incursão no mundo da Internet das Coisas. Esta balança inteligente pode ser colocada sob a garrafa de café, e com a ajuda de sensores e conectividade, ela medirá a quantidade de café restante e exibirá os dados em um aplicativo.
