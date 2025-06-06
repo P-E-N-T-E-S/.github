@@ -1,6 +1,6 @@
 ## Nossos Projetos 📼
 
-<img align="right" width="200" src="https://images.vexels.com/media/users/3/318414/isolated/preview/488949fc3555ba9f5c3d7a5b0130719a-capivara-carregando-filhotes-nas-costas.png" />
+<img align="right" width="180" src="https://images.vexels.com/media/users/3/318414/isolated/preview/488949fc3555ba9f5c3d7a5b0130719a-capivara-carregando-filhotes-nas-costas.png" />
 
 ### SUBlime - Plataforma de Legendas para Libreflix 🎬
 O [SUBlime](https://github.com/P-E-N-T-E-S/SUBlime) é um sistema de gerenciamento de legendas para a plataforma Libreflix, garantindo acessibilidade e inclusão. Oferece:
