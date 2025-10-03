@@ -1,8 +1,6 @@
 <div align="center">
 
-# 🚀 P.EN.T.E.S. - Projetos Inovadores
-
-*Transformando ideias em soluções tecnológicas impactantes*
+# P.EN.T.E.S.
 
 </div>
 
